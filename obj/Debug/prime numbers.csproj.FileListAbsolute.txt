@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\prime numbers\bin\Debug\prime numbers.exe.config
+C:\Users\hp\Documents\prime numbers\bin\Debug\prime numbers.exe
+C:\Users\hp\Documents\prime numbers\bin\Debug\prime numbers.pdb
+C:\Users\hp\Documents\prime numbers\obj\Debug\prime numbers.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\prime numbers\obj\Debug\prime numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\prime numbers\obj\Debug\prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\prime numbers\obj\Debug\prime numbers.exe
+C:\Users\hp\Documents\prime numbers\obj\Debug\prime numbers.pdb
